@@ -73,7 +73,8 @@ I am actively looking for:
 - 💼 LinkedIn: www.linkedin.com/in/arvind-m-031386214
 - 📧 Email: davidarvind44@gmail.com
 - 🌐 GitHub: You’re already here 😄
-- 
+- <img src="https://leetcard.jacoblin.cool/davidarvind44?theme=dark&font=Karma&ext=heatmap" />
+
 
 ---
 
