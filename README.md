@@ -18,9 +18,10 @@ After 3 years of experience in IT infrastructure & support, I decided to transit
 ---
 
 ## 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,sqlite,html,css,javascript,react,git,github,linux,vscode,postman" />
 
 **Languages**
-- Python <a href="https://www.flaticon.com/free-icons/python" title="python icons">Python icons created by Freepik - Flaticon</a>
+- Python 
 - SQL
 
 **Backend**
