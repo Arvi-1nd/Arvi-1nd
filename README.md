@@ -77,13 +77,14 @@ I am actively looking for:
 ## 🧠 Problem Solving
 
 <p align="left">
-  <a href="https://leetcode.com/davidarvind44/">
+  <a href="https://leetcode.com/davidarvind44/" target="_blank">
     <img src="https://skillicons.dev/icons?i=leetcode" />
   </a>
 </p>
 
-<img src="https://leetcard.jacoblin.cool/
-davidarvind44?theme=dark&font=Karma&ext=heatmap" />
+- Actively practicing **Data Structures & Algorithms** using Python  
+- Focus on building strong fundamentals and consistency  
+- Solving problems on **LeetCode** regularly
 
 ---
 
